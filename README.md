@@ -3,7 +3,7 @@
 Kevin Solis
 Infrastructure & Automation Engineer 👋
 
-https://www.linkedin.com/in/kevin-solis-52b09572/
+Open to Work kevin-solis-52b09572
 
 I am passionate about streamlining processes through automation and unconventional problem-solving approaches. I am currently focused on building out a homelab and exploring GitOps.
 
