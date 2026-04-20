@@ -1,14 +1,14 @@
 # Kevin Solis
 Infrastructure & Automation Engineer
 
+👋 About Me
+
+IT engineer with 15 years of experience specializing in on-prem and cloud infrastructure, automation, networking, and security. Strong background in microservices (Docker, Kubernetes), enterprise networking, and large-scale system administration.
+
 <p align="left">
 <a href="https://linkedin.com/in/kevin-solis-52b09572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-solis-52b09572" height="30" width="40" /></a>
 </p>
 
-
-👋 About Me
-
-IT engineer with 15 years of experience specializing in on-prem and cloud infrastructure, automation, networking, and security. Strong background in microservices (Docker, Kubernetes), enterprise networking, and large-scale system administration.
 
 🚀 Current Focus
 
