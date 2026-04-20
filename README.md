@@ -34,6 +34,7 @@ IT engineer with 15 years of experience specializing in on-prem and cloud infras
 🛡️ Networking & Security
 
     Sophos
+    OPNsense
     Cisco
     Fortinet
 
